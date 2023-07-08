@@ -1,0 +1,44 @@
+{
+    "Child": {
+        "ageClass": "Child",
+        "male": 0,
+        "female": 0,
+        "count": 0
+    },
+    "Teenager": {
+        "ageClass": "Teenager",
+        "male": 0,
+        "female": 0,
+        "count": 0
+    },
+    "Young Adult": {
+        "ageClass": "Young Adult",
+        "male": 0,
+        "female": 0,
+        "count": 0
+    },
+    "Early Adult": {
+        "ageClass": "Early Adult",
+        "male": 0,
+        "female": 0,
+        "count": 0
+    },
+    "Middle Adult": {
+        "ageClass": "Middle Adult",
+        "male": 0,
+        "female": 0,
+        "count": 0
+    },
+    "Late Adult": {
+        "ageClass": "Late Adult",
+        "male": 0,
+        "female": 0,
+        "count": 0
+    },
+    "Senior": {
+        "ageClass": "Senior",
+        "male": 0,
+        "female": 0,
+        "count": 0
+    }
+}
